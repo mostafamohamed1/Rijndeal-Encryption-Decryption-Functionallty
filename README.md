@@ -1,2 +1,2 @@
 # Rijndeal Algorithm 
-    For Encrypt File And Decrypt It
+For Encrypt File And Decrypt It
